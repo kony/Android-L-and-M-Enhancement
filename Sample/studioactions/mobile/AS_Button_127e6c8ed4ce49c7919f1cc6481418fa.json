@@ -1,0 +1,26 @@
+{
+    "AS_Button_127e6c8ed4ce49c7919f1cc6481418fa": {
+        "id": "AS_Button_127e6c8ed4ce49c7919f1cc6481418fa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRipple",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c8def352b61149658e80087f367770d9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_73ac27b68dea42efb12b565f0c2afd2d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "ripple",
+            "display": "ripple",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

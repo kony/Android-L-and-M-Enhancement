@@ -1,0 +1,27 @@
+{
+    "AS_Button_d14484dd005a4595a3c87a2125637534": {
+        "id": "AS_Button_d14484dd005a4595a3c87a2125637534",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRipple",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c8def352b61149658e80087f367770d9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___92b74ea5128d481783ff93d495dd9e78",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "rippleback",
+            "display": "rippleback",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

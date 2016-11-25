@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0463ece0604421fa204cf4add3da9d4",
+    "_text_": "Clip View",
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "25%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "70%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s18dd6e073e44e93a99817fb974340e3",
+    "id": "btnClickMe",
+    "ide_onClick": "AS_Button_9582276c93024824948a8f201e2a22e9",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bc71994eb0da4b7195309b28ce49d71e",
+    "name": "kony.ui.Button",
+    "parent": "frmClipView",
+    "pf": "frmClipView",
+    "wType": "Button",
+    "zindex": 1
+}

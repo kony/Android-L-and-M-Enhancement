@@ -1,0 +1,20 @@
+{
+    "AS_Button_9582276c93024824948a8f201e2a22e9": {
+        "id": "AS_Button_9582276c93024824948a8f201e2a22e9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_57f2d86b169945d696b870d21c655535",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "clip",
+            "display": "clip",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

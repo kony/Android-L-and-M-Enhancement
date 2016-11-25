@@ -1,0 +1,27 @@
+{
+    "AS_Button_c429e5724aae4a9a8d31adc40562d9e0": {
+        "id": "AS_Button_c429e5724aae4a9a8d31adc40562d9e0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmShodowView",
+            "type": "forms",
+            "platform": null,
+            "KUID": "782fcea212314533a907822c3cf0b5c9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___2730225ae52748bf9acd216ba0fc864f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "backShadowExp",
+            "display": "backShadowExp",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_Button_184fc9cafeb044e99a5a464c4fcbd800": {
+        "id": "AS_Button_184fc9cafeb044e99a5a464c4fcbd800",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmClipView",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a5d0cebc49cc46919998569c8482b676"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a6bb01e210de4062bfa88f5ae10bc818",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "clipBack",
+            "display": "clipBack",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}
